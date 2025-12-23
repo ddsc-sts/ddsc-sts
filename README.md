@@ -30,15 +30,13 @@ Plataforma de manutenção e venda de eletrônicos.
 
 ---
 
-## 💻 Habilidades
-
-**Backend:** Python • Flask • REST APIs
-
-**Frontend:** HTML5 • CSS3 • Responsive Design
-
-**Database:** MySQL • MySQL Workbench
-
-**Data:** Pandas • Python
+🛠️ Tecnologias
+!Python
+!Flask
+!HTML5
+!CSS3
+!JavaScript
+!MySQL
 
 ---
 
