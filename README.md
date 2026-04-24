@@ -1,63 +1,63 @@
-# 👨‍💻 Daniel dos Santos
+- Interface responsiva com HTML, CSS e JavaScript
+- Back-end em Flask com persistência em MySQL
 
-> **Full Stack Developer** | Python • Flask • HTML/CSS • MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-## 🎯 Sobre Mim
-
-Desenvolvedor apaixonado por criar **soluções web inovadoras**. Experiência em desenvolvimento full stack com **Python, Flask, HTML, CSS e MySQL**.
-
----
-
-## 🚀 Meus Projetos
-
-### 🌊 [AGUAPURA](https://github.com/ddsc-sts/AGUAPURA)
-Plataforma de venda de garrafas térmicas com personalização.
-- `HTML` `CSS` `E-commerce`
-
-### 📚 [Turma da Mônica](https://github.com/ddsc-sts/Informacoes_Turma_da_monica)
-Site informativo educativo sobre a Turma da Mônica.
-- `HTML` `CSS` `Responsivo`
-
-### 🏢 [Inquilinos](https://github.com/ddsc-sts/Inquilinos)
-Sistema de gerenciamento de inquilinos e imóveis.
-- `Python` `Flask` `MySQL`
 
 ### 🔧 [Danle](https://github.com/ddsc-sts/danle)
-Plataforma de manutenção e venda de eletrônicos.
-- `Python` `Flask` `MySQL` `Pandas`
+> Plataforma web de venda e manutenção de eletrônicos com painel de controle e gestão de produtos.
+
+- Cadastro e gerenciamento de produtos eletrônicos
+- Sistema de vendas e controle de manutenções
+- Análise de dados com Pandas
+- Back-end em Python/Flask com banco MySQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
-| Repos | Stars | Followers |
-|-------|-------|-----------|
-| 5 | 1 ⭐ | 5 👥 |
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddsc-sts&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddsc-sts&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📧 Contato
 
+- **LinkedIn:** [Daniel dos Santos](https://www.linkedin.com/in/daniel-dos-santos-costa)
+- **Email:** danielsts.sc@gmail.com
 - **GitHub:** [@ddsc-sts](https://github.com/ddsc-sts)
-- **Email:** seu-email@exemplo.com
-- **LinkedIn:** [seu-perfil](https://linkedin.com/in/seu-perfil)
 
 ---
 
 <div align="center">
 
-**Desenvolvido com ❤️ por Daniel dos Santos**
+**Feito com ❤️ por Daniel dos Santos**
 
 </div>
