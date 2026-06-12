@@ -29,12 +29,12 @@ Sistema web completo — projeto final do 1º ano do técnico.
 Autenticação de usuários, CRUD completo e persistência com MySQL.
 `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
-**[Dalegé](https://github.com/ddsc-sts/dalege)**
+**[Dalegé](https://github.com/ddsc-sts/Pizzaria-Dalege)**
 Aplicação web para pizzaria. Front-end estruturado com HTML semântico,
 estilização responsiva e lógica de apresentação em JavaScript puro.
 `HTML` `CSS` `JavaScript`
 
-**[re.source](https://github.com/ddsc-sts)**
+**[re.source](https://github.com/ddsc-sts/re.source)**
 Plataforma B2B para venda de sobras e resíduos de materiais entre empresas.
 `PHP` `JavaScript` `MySQL` `HTML` `CSS`
 
