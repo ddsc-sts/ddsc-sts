@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Daniel dos Santos Costa, desenvolvedor back-end em formação" width="100%" />
+<img src="banner.svg" alt="Daniel dos Santos Costa, desenvolvedor back-end em formação" width="100%" />
 
 <br/>
 
