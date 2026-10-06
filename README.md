@@ -2,19 +2,23 @@
 
 <br/>
 
-```text
-$ whoami
-daniel · 16 anos · técnico em Desenvolvimento de Sistemas (SENAI, 2025–2026) · Joinville, SC
+<div align="center">
 
-$ cat foco.txt
-back-end, sistemas web completos, engenharia de software
+Construo sistemas web do banco de dados até a tela.<br/>
+Meu foco é **back-end**, código organizado e software que roda em produção.
 
-$ cat status.txt
-formatura em dez/2026 · aberto a estágio e vaga júnior
-```
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--dos--santos--costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dos-santos-costa)
-[![E-mail](https://img.shields.io/badge/E--mail-danielsts.costa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsts.costa@gmail.com)
+![SENAI](https://img.shields.io/badge/SENAI-Desenvolvimento_de_Sistemas-0A66C2?style=flat-square)
+![Formatura](https://img.shields.io/badge/Formatura-Dez%2F2026-555?style=flat-square)
+![Status](https://img.shields.io/badge/Aberto_a-estágio_e_vaga_júnior-2EA44F?style=flat-square)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_dos_Santos_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dos-santos-costa)
+[![E-mail](https://img.shields.io/badge/E--mail-Enviar_mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsts.costa@gmail.com)
+
+</div>
 
 ---
 
